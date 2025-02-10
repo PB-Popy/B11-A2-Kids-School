@@ -1,3 +1,7 @@
+## Assignment 02 of Programming hero 
+
+Popy Biswas
+
 ### WELCOME TO ASSIGNMENT-002
 🚩Notice
 **⚠️ Hover effect on Arrow Button at Standard Curriculam section is optional**
